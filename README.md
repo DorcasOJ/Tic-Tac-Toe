@@ -16,6 +16,3 @@ python main.py <p>
 
 # Screenshot
 ![Select Player](https://github.com/DorcasOJ/Tic-Tac-Toe/blob/main/Image/select_player.png?raw=true 'Select Player')
-
-https://github.com/DorcasOJ/Tic-Tac-Toe/tree/main/Image
-https://github.com/DorcasOJ/Tic-Tac-Toe/blob/main/Image/select_player.png
