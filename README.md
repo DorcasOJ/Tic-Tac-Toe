@@ -15,3 +15,6 @@ python main.py <p>
 5. New game loads after every wins <p>
 
 # Screenshot
+![Select Player](https://github.com/DorcasOJ/Tic-Tac-Toe/blob/Image/select_player.png?raw=true 'Select Player')
+
+https://github.com/DorcasOJ/Tic-Tac-Toe/tree/main/Image
